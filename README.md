@@ -1,4 +1,4 @@
-# AI Document Structurer (Streamlit App)
+# AI Document Structurer 
 
 This Streamlit application extracts structured information from unorganized PDF documents and converts it into a clean **Key | Value | Comments** Excel file. It uses paragraph normalization and rule-based text extraction to preserve the original context while organizing the data.
 
